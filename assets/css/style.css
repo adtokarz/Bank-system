@@ -1,0 +1,136 @@
+body{
+    background-color: #63ca62 !important;
+}
+.quicklinks {
+    list-style-type: none;
+}
+.dropdown-menu {
+    list-style-type: none;
+}
+#main-menu-wrapper > ul:nth-child(2) {
+    list-style-type: none;
+}
+#header_task_bar {
+    list-style-type: none;
+    }
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.header-seperation {
+    background: #006618;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    }
+
+.col-md-12 {
+        text-align: center;
+        }
+.page-container {
+    margin: 20px 100px;
+    border: 11px solid #006618;
+    border-radius: 25px;
+    background-color: #63CA62;
+}
+.dropdown-menu > li:nth-child(1) > a:nth-child(1) {
+    color: black;
+    font-weight: bold;
+}
+.dropdown-menu > li:nth-child(3) > a:nth-child(1) {
+    color: black;
+    font-weight: bold;
+    }
+    .dropdown-menu {
+        padding-left: 89%;
+        line-height: 30px;
+}
+
+.greeting, .username{
+    font-size: 30px !important;
+    text-align: center;
+}
+#main-menu-wrapper > ul:nth-child(2) {
+background-color: #006618;
+padding-left: 5%;
+}
+
+#main-menu ul li a{
+    color: white;
+    font-size: 20px;
+    line-height: 32px;
+    border-left: 5px solid white;
+    padding-left: 5px;
+}
+
+#main-menu ul{
+    padding: 20px 0;
+}
+
+.page-title .row{
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.page-title .row{
+text-align: center;
+background: #b31212;
+margin: 0 35%;
+border-radius: 20px;
+margin-bottom: 18px;
+padding: 12px;
+}
+
+.page-title .row a{
+    font-size: 25px;
+}
+
+.page-title > h3:nth-child(1) {
+    display: none;
+}
+.modal-body {
+    display: none;
+}
+.modal-header > h3:nth-child(2) {
+    display: none;
+}
+
+.scrollup {
+    display: none;
+}
+div.form-group:nth-child(2) > label:nth-child(1) {
+    color: white;
+    font-size: 20px;
+}
+
+button.btn {
+    padding: 10px;
+    background: white;
+    border: none;
+    border-radius: 10px;
+}
+
+input.btn {
+    padding: 10px;
+    background: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.panel-footer{
+    margin-top: 30px;
+}
+
+.form-group label{
+    color: white;
+    font-size: 20px;
+}
+
+div.row:nth-child(4) {
+    color: white;
+    font-size: 18px;
+    }

@@ -1,0 +1,21 @@
+body{
+    background-color: #63ca62 !important;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 100px;
+    }
+.login-container .btn {
+    color: green;
+    font-weight: bold;
+    }
+.login-container h2{
+    color: white;
+    font-weight: bold;
+    border-left: 5px solid white;
+    padding-left: 5px;
+}
